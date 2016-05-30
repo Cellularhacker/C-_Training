@@ -1,0 +1,8 @@
+# Training_01.txt
+#
+# Build a Household Accounts.
+1) Do not use DB.
+2) Get the values and comments with text boxes.
+3) save and open with .txt or .csv file without using Library.
+4) Build with Windows Form Application.
+5) Mark the acucumulate and sum.
